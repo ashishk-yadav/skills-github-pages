@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
-This is first test change
+title: Welcome to my blog! This is first test change
+
 ---
